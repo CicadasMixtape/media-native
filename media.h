@@ -3,8 +3,8 @@
 #include <winrt/Windows.Media.Control.h>
 #include <winrt/Windows.Foundation.Collections.h>
 
-#ifndef ZALUPA_MEDIA_H
-#define ZALUPA_MEDIA_H
+#ifndef MEDIA_H
+#define MEDIA_H
 
 using namespace winrt::Windows::Media::Control;
 
